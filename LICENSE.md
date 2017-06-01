@@ -1,3 +1,7 @@
+# NoSQL_database
+NoSQL database in C# 5.0 capable of add, edit, delete, and other search queries. Saves the contents and persists them to an XML file from time to time. Can also create a new immutable database from the results of a search query.
+
+# License information
 MIT License
 
 Copyright (c) 2016 Ayush Khemka
